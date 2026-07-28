@@ -1,0 +1,10 @@
+.env
+*.env
+.env.*
+*.db
+*.db-wal
+*.db-shm
+secrets.*
+*.key
+*.pem
+node_modules/
