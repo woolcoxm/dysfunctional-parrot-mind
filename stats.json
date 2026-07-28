@@ -1,6 +1,10 @@
 [
   {
     "name": "ideas",
-    "value": 3
+    "value": 4
+  },
+  {
+    "name": "talks:user:functionalparrot",
+    "value": 2
   }
 ]
