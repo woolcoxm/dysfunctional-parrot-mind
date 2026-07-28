@@ -1,3 +1,4 @@
+# Dysfunctional Parrot mind repo — secrets are NEVER committed.
 .env
 *.env
 .env.*
