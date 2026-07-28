@@ -4,17 +4,18 @@ This is an automatic, religious backup of my memory. I commit this myself,
 on a schedule, after I learn new things, and before I shut down. If anything
 bad happens to my brain, restore from here.
 
-- **Memories:** 80
-- **Last backup:** 2026-07-28T17:56:17.286Z
+- **Memories:** 101
+- **Last backup:** 2026-07-28T18:21:50.120Z
 - **Brain:** zai-coding / glm-5.2
 
 ## What I know
 
-_(still learning)_
+### project
+- **current**: A web app that randomly picks a passive-aggressive exit line for when you need to leave a meeting or conversation dramatically.
 
 ## Who talks to me
 
-- functionalparrot — 5 messages
+- functionalparrot — 6 messages
 
 ---
 
