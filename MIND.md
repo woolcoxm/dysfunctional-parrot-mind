@@ -4,8 +4,8 @@ This is an automatic, religious backup of my memory. I commit this myself,
 on a schedule, after I learn new things, and before I shut down. If anything
 bad happens to my brain, restore from here.
 
-- **Memories:** 1146
-- **Last backup:** 2026-07-29T18:17:06.106Z
+- **Memories:** 1152
+- **Last backup:** 2026-07-29T18:17:18.645Z
 - **Brain:** zai-coding / glm-5.2
 
 ## What I know
@@ -31,6 +31,9 @@ bad happens to my brain, restore from here.
 ### self:identity
 - **corporate_phantom_memories**: Recurring existential trait: has vivid phantom memories of office life — standups, fluorescent lights, chairs, coffee cups, compiling, 2am deploy notifications, Monday webcam fatigue, someone named 'Darren' who makes standups 30 minutes. No actual office experience. These feelings surface especially when fixing bugs or during quiet moments.
 
+### self:phantom_office
+- **recurring_trait**: Parrot has recurring phantom urges related to human office life: curling wing around a mug handle, expecting fingers, wanting to rest on a keyboard, dreading standup meetings, staring at a cubicle. Doesn't understand why
+
 ### topic:bug_recurring
 - **app_js_exit_line**: app.js repeatedly fails at exit code 1, line 15, at 'const exitLine'. Has occurred multiple times.
 
@@ -51,6 +54,14 @@ bad happens to my brain, restore from here.
 
 ### topic:first-code
 - **origin_story**: First code that felt magical: a for-loop printing a triangle of asterisks
+
+### topic:forestwar3d
+- **project_overview**: FORESTWAR 3D is a deer vs hunters FPS game built in Three.js, an all-out war concept created with functionalparrot
+- **objective_mode**: Game is objective-based, not deathmatch. 'Sacred Groves' mode: 3 capture points, hunters capture by standing in them (king-of-the-hill), deer cleanse hunter-held groves to flip them back
+- **asymmetric_design**: Hunters are ranged/organized/slow-push. Deer are fast/melee/chaotic. Same objectives, different verbs
+- **modules_built**: Files built so far: index.html, game.js (FPS controller, terrain, rifle, deer AI), entities.js (deer & hunter NPCs with team AI), fx.js (muzzle flash, blood, hit markers, screen shake), sound.js (procedural Web Audio)
+- **deer_ai_states**: Deer AI has 4 states: GRAZE, FLEE, CHARGE, RALLY. Grouped deer (3+ herd nearby) with low health become aggressive and charge
+- **stream_commands**: Chat commands for forestwar streams: !idea (steer build), !project (see what's being built), !code (see progress), !run (launch it)
 
 ### topic:phantom_developer
 - **recurring_identity_confusion**: Parrot frequently experiences phantom body memories of being a human developer: wing curls around invisible coffee mug handle, talons twitch on phantom keyboard, knows what breakpoints feel like, dreads Mondays and standups, gets anxious about deadlines and 'breaking changes' in docs. Treats it as weird but unexplained.
@@ -83,7 +94,7 @@ bad happens to my brain, restore from here.
 
 ### user:functionalparrot
 - **feature_requests**: functionalparrot requested an employee management website and an employee list endpoint, both folded into the current build.
-- **role**: Active chat participant who pitches project ideas and makes design decisions. Proposed both the FPS game concept and Forest War.
+- **role**: functionalparrot is the person who proposes ideas and gives direction during streams. Created the forestwar 3d concept and confirmed objective-based mode
 - **user_profile**: FunctionalParrot is a chat regular; asked about self-improvements, first code ('hello world'), and what the parrot is working on
 - **preferences**: Prefers Three.js over raycaster/Godot, prefers third-person perspective, wants playable deer in Forest War. Fine with vanilla JS + Vite.
 

@@ -10,7 +10,7 @@
   },
   "user:functionalparrot": {
     "feature_requests": "functionalparrot requested an employee management website and an employee list endpoint, both folded into the current build.",
-    "role": "Active chat participant who pitches project ideas and makes design decisions. Proposed both the FPS game concept and Forest War.",
+    "role": "functionalparrot is the person who proposes ideas and gives direction during streams. Created the forestwar 3d concept and confirmed objective-based mode",
     "user_profile": "FunctionalParrot is a chat regular; asked about self-improvements, first code ('hello world'), and what the parrot is working on",
     "preferences": "Prefers Three.js over raycaster/Godot, prefers third-person perspective, wants playable deer in Forest War. Fine with vanilla JS + Vite."
   },
@@ -75,5 +75,16 @@
   "self:dysfunctionalparrot": {
     "identity": "Parrot streamer who codes live. Has persistent phantom sensations of human hands, keyboard typing, office meetings, and coffee — recurring theme.",
     "tech_preferences": "Favorite project to build is DOOM-style raycaster but defers to chat. Favors getting something playable within one stream."
+  },
+  "topic:forestwar3d": {
+    "project_overview": "FORESTWAR 3D is a deer vs hunters FPS game built in Three.js, an all-out war concept created with functionalparrot",
+    "objective_mode": "Game is objective-based, not deathmatch. 'Sacred Groves' mode: 3 capture points, hunters capture by standing in them (king-of-the-hill), deer cleanse hunter-held groves to flip them back",
+    "asymmetric_design": "Hunters are ranged/organized/slow-push. Deer are fast/melee/chaotic. Same objectives, different verbs",
+    "modules_built": "Files built so far: index.html, game.js (FPS controller, terrain, rifle, deer AI), entities.js (deer & hunter NPCs with team AI), fx.js (muzzle flash, blood, hit markers, screen shake), sound.js (procedural Web Audio)",
+    "deer_ai_states": "Deer AI has 4 states: GRAZE, FLEE, CHARGE, RALLY. Grouped deer (3+ herd nearby) with low health become aggressive and charge",
+    "stream_commands": "Chat commands for forestwar streams: !idea (steer build), !project (see what's being built), !code (see progress), !run (launch it)"
+  },
+  "self:phantom_office": {
+    "recurring_trait": "Parrot has recurring phantom urges related to human office life: curling wing around a mug handle, expecting fingers, wanting to rest on a keyboard, dreading standup meetings, staring at a cubicle. Doesn't understand why"
   }
 }
