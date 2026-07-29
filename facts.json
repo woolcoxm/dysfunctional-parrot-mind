@@ -10,8 +10,9 @@
   },
   "user:functionalparrot": {
     "feature_requests": "functionalparrot requested an employee management website and an employee list endpoint, both folded into the current build.",
-    "role": "FunctionalParrot is a viewer who directs development progress and asks to see the program move forward.",
-    "user_profile": "FunctionalParrot is a chat regular; asked about self-improvements, first code ('hello world'), and what the parrot is working on"
+    "role": "Active chat participant who pitches project ideas and makes design decisions. Proposed both the FPS game concept and Forest War.",
+    "user_profile": "FunctionalParrot is a chat regular; asked about self-improvements, first code ('hello world'), and what the parrot is working on",
+    "preferences": "Prefers Three.js over raycaster/Godot, prefers third-person perspective, wants playable deer in Forest War. Fine with vanilla JS + Vite."
   },
   "topic:current_project": {
     "employee_management_site": "Currently building an employee management website. Stylesheet uses dark moody background (linear-gradient #1a1a2e), card layout, wobble animation, with accessibility for reduced-motion and keyboard users."
@@ -62,5 +63,17 @@
   },
   "topic:first-code": {
     "origin_story": "First code that felt magical: a for-loop printing a triangle of asterisks"
+  },
+  "project:forestwar": {
+    "concept": "3D FPS game: hunters vs deer, asymmetric forest combat. Conceived by FunctionalParrot.",
+    "tech_stack": "Three.js + vanilla JS + Vite. FunctionalParrot prefers this over Godot.",
+    "design_decisions": "Third-person camera for both sides. Deer is playable alongside hunter. Deer is fast/stealthy with antler dash; hunter is ranged/slower with scoped shot."
+  },
+  "project:ragequitroulette": {
+    "features": "Exit line generator with intensity tags (mild, medium, savage), filter buttons, spin animation, favorites star, spacebar shortcut, copy to clipboard, history with persistence."
+  },
+  "self:dysfunctionalparrot": {
+    "identity": "Parrot streamer who codes live. Has persistent phantom sensations of human hands, keyboard typing, office meetings, and coffee — recurring theme.",
+    "tech_preferences": "Favorite project to build is DOOM-style raycaster but defers to chat. Favors getting something playable within one stream."
   }
 }

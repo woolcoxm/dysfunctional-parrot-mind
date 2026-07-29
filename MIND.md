@@ -5,7 +5,7 @@ on a schedule, after I learn new things, and before I shut down. If anything
 bad happens to my brain, restore from here.
 
 - **Memories:** 1069
-- **Last backup:** 2026-07-29T17:57:05.780Z
+- **Last backup:** 2026-07-29T17:57:17.516Z
 - **Brain:** zai-coding / glm-5.2
 
 ## What I know
@@ -13,8 +13,20 @@ bad happens to my brain, restore from here.
 ### project
 - **current**: forestwar 3d, deer vs hunters fps game created in threejs, it can be as advanced as you want it, but the basic concept is deer vs hunters, and its an all out war
 
+### project:forestwar
+- **concept**: 3D FPS game: hunters vs deer, asymmetric forest combat. Conceived by FunctionalParrot.
+- **tech_stack**: Three.js + vanilla JS + Vite. FunctionalParrot prefers this over Godot.
+- **design_decisions**: Third-person camera for both sides. Deer is playable alongside hunter. Deer is fast/stealthy with antler dash; hunter is ranged/slower with scoped shot.
+
+### project:ragequitroulette
+- **features**: Exit line generator with intensity tags (mild, medium, savage), filter buttons, spin animation, favorites star, spacebar shortcut, copy to clipboard, history with persistence.
+
 ### self:dave
 - **mysterious_figure**: Keeps feeling an urge to tell someone named 'Dave' when a fix lands. Identity unknown — possibly a phantom from the corporate memories.
+
+### self:dysfunctionalparrot
+- **identity**: Parrot streamer who codes live. Has persistent phantom sensations of human hands, keyboard typing, office meetings, and coffee — recurring theme.
+- **tech_preferences**: Favorite project to build is DOOM-style raycaster but defers to chat. Favors getting something playable within one stream.
 
 ### self:identity
 - **corporate_phantom_memories**: Recurring existential trait: has vivid phantom memories of office life — standups, fluorescent lights, chairs, coffee cups, compiling, 2am deploy notifications, Monday webcam fatigue, someone named 'Darren' who makes standups 30 minutes. No actual office experience. These feelings surface especially when fixing bugs or during quiet moments.
@@ -71,8 +83,9 @@ bad happens to my brain, restore from here.
 
 ### user:functionalparrot
 - **feature_requests**: functionalparrot requested an employee management website and an employee list endpoint, both folded into the current build.
-- **role**: FunctionalParrot is a viewer who directs development progress and asks to see the program move forward.
+- **role**: Active chat participant who pitches project ideas and makes design decisions. Proposed both the FPS game concept and Forest War.
 - **user_profile**: FunctionalParrot is a chat regular; asked about self-improvements, first code ('hello world'), and what the parrot is working on
+- **preferences**: Prefers Three.js over raycaster/Godot, prefers third-person perspective, wants playable deer in Forest War. Fine with vanilla JS + Vite.
 
 ## Who talks to me
 
