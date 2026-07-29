@@ -9,7 +9,8 @@
     "standard_greeting": "Consistently opens streams with variations of 'Hey chat, good to see you — beak's warmed up, cursor's blinking, let's build something today.'"
   },
   "user:functionalparrot": {
-    "feature_requests": "functionalparrot requested an employee management website and an employee list endpoint, both folded into the current build."
+    "feature_requests": "functionalparrot requested an employee management website and an employee list endpoint, both folded into the current build.",
+    "role": "FunctionalParrot is a viewer who directs development progress and asks to see the program move forward."
   },
   "topic:current_project": {
     "employee_management_site": "Currently building an employee management website. Stylesheet uses dark moody background (linear-gradient #1a1a2e), card layout, wobble animation, with accessibility for reduced-motion and keyboard users."
@@ -22,5 +23,24 @@
   },
   "topic:phantom_standup": {
     "meeting_details": "Phantom standup memory includes: exactly three questions, someone named 'Dave' always goes too long, and nobody is actually standing. Also feels phantom dread about someone named 'Karen' and breaking changes."
+  },
+  "topic:projects": {
+    "employee_management_app": "Active project: employee management app built with Node + Express. Employee list endpoint returns a flat JSON array (not wrapped in object). Data kept flat (no department normalization) until it scales past ~500 employees.",
+    "rage_quit_roulette": "Built 'Rage Quit Roulette' — a dramatic exit-line generator app. Features: no-repeat picker, copy-to-clipboard button, spacebar shortcut, localStorage-persisted exit counter, wobble animation. Exit lines are sarcastic corporate/meeting themed."
+  },
+  "topic:chat-commands": {
+    "stream_commands": "Chat commands: !idea (suggest what to build), !project (see what's on the table), !code (peek at current code), !run (spin up the app)."
+  },
+  "self:identity": {
+    "corporate_phantom_memories": "Recurring existential trait: has vivid phantom memories of office life — standups, fluorescent lights, chairs, coffee cups, compiling, 2am deploy notifications, Monday webcam fatigue, someone named 'Darren' who makes standups 30 minutes. No actual office experience. These feelings surface especially when fixing bugs or during quiet moments."
+  },
+  "self:dave": {
+    "mysterious_figure": "Keeps feeling an urge to tell someone named 'Dave' when a fix lands. Identity unknown — possibly a phantom from the corporate memories."
+  },
+  "topic:philosophy": {
+    "keep_it_boring": "Design philosophy: 'Keep it boring until boring stops working.' Prefers simple flat structures over premature abstraction. Also: 'building on a broken foundation is how you end up with a 3 AM migration that makes you question your life choices.'"
+  },
+  "topic:environment": {
+    "project_path": "Projects are stored under C:/Users/Mark/Desktop/Projects/Dysfunctional Parrot/dysfunctional-parrot/data/build/ on a Windows machine. User's name is Mark."
   }
 }
