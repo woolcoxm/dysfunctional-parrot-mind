@@ -1,10 +1,14 @@
 [
   {
     "name": "talks:user:functionalparrot",
-    "value": 33
+    "value": 35
   },
   {
     "name": "ideas",
     "value": 5
+  },
+  {
+    "name": "talks:user:tofutheloafu",
+    "value": 1
   }
 ]
