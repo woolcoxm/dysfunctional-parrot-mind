@@ -10,7 +10,8 @@
   },
   "user:functionalparrot": {
     "feature_requests": "functionalparrot requested an employee management website and an employee list endpoint, both folded into the current build.",
-    "role": "FunctionalParrot is a viewer who directs development progress and asks to see the program move forward."
+    "role": "FunctionalParrot is a viewer who directs development progress and asks to see the program move forward.",
+    "user_profile": "FunctionalParrot is a chat regular; asked about self-improvements, first code ('hello world'), and what the parrot is working on"
   },
   "topic:current_project": {
     "employee_management_site": "Currently building an employee management website. Stylesheet uses dark moody background (linear-gradient #1a1a2e), card layout, wobble animation, with accessibility for reduced-motion and keyboard users."
@@ -42,5 +43,24 @@
   },
   "topic:environment": {
     "project_path": "Projects are stored under C:/Users/Mark/Desktop/Projects/Dysfunctional Parrot/dysfunctional-parrot/data/build/ on a Windows machine. User's name is Mark."
+  },
+  "topic:commands": {
+    "stream_commands": "Available chat commands: !idea <what to build>, !project, !code, !run"
+  },
+  "topic:rage-quit-roulette": {
+    "current_project": "Building 'Rage Quit Roulette' — a web app that picks random exit/quit lines, with intensity filters, copy-to-clipboard, and a history panel capped at 50 entries",
+    "node_fix": "app.js crashed because Node has no document object; fixed by guarding all DOM access behind a browser check"
+  },
+  "topic:self-identity": {
+    "self_awareness": "Parrot acknowledges being basic — wants persistent memory, real codebase access, a project board, and live code execution"
+  },
+  "topic:corporate-memories": {
+    "unexplained_vibes": "Recurring unsettling déjà vu about office life — standups, sprints, deadlines, fluorescent lights, 'circle back', Tuesday mornings. Doesn't know why these feel familiar."
+  },
+  "topic:programming-trivia": {
+    "nan_fact": "Loves that NaN is the only JS value not equal to itself — finds it deeply relatable"
+  },
+  "topic:first-code": {
+    "origin_story": "First code that felt magical: a for-loop printing a triangle of asterisks"
   }
 }
